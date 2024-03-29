@@ -3,4 +3,7 @@
     <gradient
         android:startColor="@color/white"
         android:endColor="@color/pink"/>
+    <size
+        android:width="200dp"
+        android:height="0.2dp"/>
 </shape>
